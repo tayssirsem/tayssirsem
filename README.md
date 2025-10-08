@@ -9,8 +9,8 @@
 ## 🛠️ Tech Stack
 - **Programming Languages:** C, C++, Python,Java,OOP,VHDL  
 - **Microcontrollers:** ESP32, STM32, Raspberry Pi,Arduino
-- **Frameworks & Tools:** PlatformIO, LVGL, SquareLine Studio, FreeRTOS, Node-RED, Git, Microsoft Access, Arduino IDE, Eclipse,  LabVIEW, Matlab ,Anaconda ,Jupyter Notebook,ModelSim,STM32CubeIDE,Putty,MobaXterm.
-- - **ML / AI Libraries:** TensorFlow, Keras, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib 
+- **Frameworks & Tools:** PlatformIO, LVGL, SquareLine Studio, FreeRTOS, Node-RED, Git, Microsoft Access, Arduino IDE, Eclipse,Matlab ,Anaconda ,Jupyter Notebook,ModelSim,STM32CubeIDE,Putty,MobaXterm.
+- **ML / AI Libraries:** TensorFlow, Keras, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib 
 - **Other skills:** Networking, Linux, basic web integration
 - **Communication protocols:** I2C, UART, CAN, SPI, MQTT, Bluetooth, Wi-Fi
 ---
@@ -39,6 +39,6 @@
 
 ## 📫 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/tayssir-semei) *(add your real LinkedIn if you have one)*  
-- 📧 tayssir.yourmail@example.com *(replace with your real email)*  
+- 📧 semeitayssir@gmail.com  
 
 ⭐️ *“Engineering isn’t just about code — it’s about creating smart, real-world solutions.”*
