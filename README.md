@@ -10,6 +10,7 @@
 - **Programming Languages:** C, C++, Python,Java,OOP,VHDL  
 - **Microcontrollers:** ESP32, STM32, Raspberry Pi,Arduino
 - **Frameworks & Tools:** PlatformIO, LVGL, SquareLine Studio, FreeRTOS, Node-RED, Git, Microsoft Access, Arduino IDE, Eclipse,  LabVIEW, Matlab ,Anaconda ,Jupyter Notebook,ModelSim,STM32CubeIDE,Putty,MobaXterm.
+- - **ML / AI Libraries:** TensorFlow, Keras, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib 
 - **Other skills:** Networking, Linux, basic web integration
 - **Communication protocols:** I2C, UART, CAN, SPI, MQTT, Bluetooth, Wi-Fi
 ---
