@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/tayssir-semei) *(add your real LinkedIn if you have one)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tayssir-seme%C3%AF/) 
 - 📧 semeitayssir@gmail.com  
 
 ⭐️ *“Engineering isn’t just about code — it’s about creating smart, real-world solutions.”*
