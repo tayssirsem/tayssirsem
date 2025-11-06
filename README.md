@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tayssir Semei
 
 🎓 Embedded Systems Engineering Student @ ENIG (Tunisia)  
-💻 Passionate about IoT, Embedded C, and real-time systems  
+💻 Passionate about IoT, Embedded C and real-time systems  
 🚀 Focused on ESP32, STM32, robotics,Raspberry Pi and embedded applications 
 
 ---
@@ -31,9 +31,9 @@
 ---
 
 ## 🧑‍💻 Currently Working On
-- 🚧 Improving GUI interfaces on ESP32 using LVGL & SquareLine  
-- 🧪 Integrating CI/CD pipelines for embedded systems (Jenkins + Nexus)  
-- 🌐 Learning ROS2 and Gazebo for robotics simulation and virtual environment testing. 
+- 🚧 Improving GUI interfaces on ESP32 using LVGL & SquareLine and of STM32   
+- 🌐 Learning ROS2 and Gazebo for robotics simulation and virtual environment testing.
+- 
 
 ---
 
