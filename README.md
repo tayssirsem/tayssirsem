@@ -2,17 +2,17 @@
 
 🎓 Embedded Systems Engineering Student @ ENIG (Tunisia)  
 💻 Passionate about IoT, Embedded C, and real-time systems  
-🚀 Focused on ESP32, STM32, robotics,Raspberry Pi and embedded applications
+🚀 Focused on ESP32, STM32, robotics,Raspberry Pi and embedded applications 
 
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Languages:** C, C++, Python,Java,OOP,VHDL  
+- **Programming Languages:** C, C++, Python,Java,OOP,embedded linux  
 - **Microcontrollers:** ESP32, STM32, Raspberry Pi,Arduino
-- **Frameworks & Tools:** PlatformIO, LVGL, SquareLine Studio, FreeRTOS, Node-RED, Git, Microsoft Access, Arduino IDE, Eclipse,Matlab ,Anaconda ,Jupyter Notebook,ModelSim,STM32CubeIDE,Putty,MobaXterm.
+- **Development Environmets and Software:** PlatformIO, LVGL, SquareLine Studio, FreeRTOS, Node-RED,Git,Microsoft Access, Arduino IDE, Eclipse,Matlab,Jupyter Notebook,ModelSim,STM32CubeIDE,Putty.
 - **ML / AI Libraries:** TensorFlow, Keras, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib 
-- **Other skills:** Networking, Linux, basic web integration
-- **Communication protocols:** I2C, UART, CAN, SPI, MQTT, Bluetooth, Wi-Fi
+- **Other skills:** basic web integration
+- **Communication protocols:** I2C, UART,SPI, MQTT, Bluetooth, Wi-Fi
 ---
 
 ## 🚀 Featured Projects
@@ -33,7 +33,6 @@
 ## 🧑‍💻 Currently Working On
 - 🚧 Improving GUI interfaces on ESP32 using LVGL & SquareLine  
 - 🧪 Integrating CI/CD pipelines for embedded systems (Jenkins + Nexus)  
-- 🤖 Developing robotics control with semi-autonomous behavior
 - 🌐 Learning ROS2 and Gazebo for robotics simulation and virtual environment testing. 
 
 ---
