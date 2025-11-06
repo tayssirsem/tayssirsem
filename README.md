@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tayssir Semei
 
-🎓 Embedded Systems Engineering Student @ ENIG (Tunisia)  
+🎓 Embedded Systems Engineering Student at ENIG.  
 💻 Passionate about IoT, Embedded C and real-time systems  
 🚀 Focused on ESP32, STM32, robotics,Raspberry Pi and embedded applications 
 
