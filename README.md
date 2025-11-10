@@ -33,6 +33,7 @@
 ## 🧑‍💻 Currently Working On
 - 🚧 Improving GUI interfaces on ESP32 using LVGL & SquareLine and of STM32   
 - 🌐 Learning ROS2 and Gazebo for robotics simulation and virtual environment testing.
+- 🧠 Developing an image recognition project in Python — selecting and preprocessing an image dataset, applying a machine learning model, and evaluating performance.
   
 
 ---
