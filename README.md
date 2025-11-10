@@ -33,7 +33,7 @@
 ## 🧑‍💻 Currently Working On
 - 🚧 Improving GUI interfaces on ESP32 using LVGL & SquareLine and of STM32   
 - 🌐 Learning ROS2 and Gazebo for robotics simulation and virtual environment testing.
-- 
+  
 
 ---
 
